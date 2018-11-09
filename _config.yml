@@ -16,10 +16,10 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 repository: azhaojy/pkqd.github.io
-github_url: https://github.com/azhaojy
-cnblog_url: http://www.cnblogs.com/azhaojy
-url: http://www.azhaojy.com
-enforce_ssl: azhaojy.com
+github_url: https://github.com/pkqd
+cnblog_url: http://www.cnblogs.com/pkqd
+url: http://www.pkqd.com
+enforce_ssl: pkqd.com
 
 ## Gem
 plugins:
